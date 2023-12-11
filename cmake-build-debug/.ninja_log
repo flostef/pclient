@@ -1,0 +1,19 @@
+# ninja log v5
+6	258	1699982291720258194	src/CMakeFiles/pclient.dir/log/LogService.cpp.o	f6b62b01fde7ea1f
+7	1233	1700052302510985376	src/CMakeFiles/pclient.dir/orchestration/Orchestrator.cpp.o	4bccbf1d5fa15d62
+1	467	1699941731243290733	CMakeFiles/client.dir/config/Json.cc.o	ed1a14b4bc366f5e
+1	814	1699941731586036969	CMakeFiles/client.dir/config/config.cc.o	b7fd21e4f2ac7577
+5	477	1699959005282041068	CMakeFiles/client.dir/client_main.cc.o	bb567aeb8aadce95
+0	51	1702286402449805030	build.ninja	b5d8e7e18d8191e5
+8	517	1700062922263201681	src/CMakeFiles/pclient.dir/http/HttpPipeline.cpp.o	5882e7a4f96b453a
+6	497	1699959302994950302	CMakeFiles/pclient.dir/main.cc.o	edd7118bc538c204
+556	622	1700062922370320165	/Users/vlad/Projects/adf/pclient/pclient	a90f1420282b8fff
+8	555	1700062922301845049	src/CMakeFiles/pclient.dir/main.cc.o	d4ea553b6a2047c8
+5	65	1702286402449805030	build.ninja	b5d8e7e18d8191e5
+3	2219	1702286404676803392	src/CMakeFiles/pclient.dir/http/HttpPipeline.cpp.o	5882e7a4f96b453a
+3	2220	1702286404675908052	src/CMakeFiles/pclient.dir/main.cc.o	d4ea553b6a2047c8
+2222	2450	1702286404909359906	/Users/vlad/Projects/adf/pclient/pclient	a90f1420282b8fff
+2	490	1702286612034871975	src/CMakeFiles/pclient.dir/main.cc.o	d4ea553b6a2047c8
+490	533	1702286612080519156	/Users/vlad/Projects/adf/pclient/pclient	a90f1420282b8fff
+2	487	1702286651506871155	src/CMakeFiles/pclient.dir/main.cc.o	d4ea553b6a2047c8
+488	531	1702286651552893755	/Users/vlad/Projects/adf/pclient/pclient	a90f1420282b8fff

@@ -1,0 +1,4 @@
+/Users/vlad/Projects/adf/pclient/build.cmake/CMakeFiles/server.dir
+/Users/vlad/Projects/adf/pclient/build.cmake/CMakeFiles/client.dir
+/Users/vlad/Projects/adf/pclient/build.cmake/CMakeFiles/edit_cache.dir
+/Users/vlad/Projects/adf/pclient/build.cmake/CMakeFiles/rebuild_cache.dir
